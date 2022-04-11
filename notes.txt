@@ -1,0 +1,21 @@
+______
+
+
+
+We are using express        ______
+|Learn this| 
+||||||||||||
+
+Call Stack :
+
+
+
+Async Wait : 
+
+
+
+
+Promise: 
+* what is promise?
+eventual completion or failure of an asynchronous operation and its resulting value.
+
